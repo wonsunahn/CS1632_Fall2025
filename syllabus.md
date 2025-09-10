@@ -54,14 +54,16 @@ instead of listening to lectures in class and doing exercises at home,
 exercises are done in-class and pre-recorded lectures are assigned as homework.
 The rationale: doing exercises is when students think deeply about the material
 and that is when most student questions are triggered --- hence, it makes more
-sense to have the instructor on-hand at that point of time.
+sense to have the instructor on-hand at that point of time.  This class is
+semi-flipped, so classes will be a mix of lectures and in-class exercises as
+the situation demands.
 
-As such, this class is organized around the 10 in-class exercises that happen
-every week.  Please refer to the [Class Schedule Page](schedule.md) to view
-what is happening each week and what recorded lectures you need to listen to
-when.  Each exercise is meant to be done in-class during lecture hours, and for
-those of you who need a bit more time, I will give until the start of the next
-class to finish the exercise.
+As such, this class is organized around the 10 exercises that happen every
+week.  We will get some hands-on experience on the exercises in class and you
+are expected to finish them at home, if you are unable to do so in class.
+Please refer to the [Class Schedule Page](schedule.md) to view what is
+happening each week.  I will give until the start of the next exercise to
+finish the current exercise.
 
 Exercises are [formative
 assessments](https://en.wikipedia.org/wiki/Formative_assessment) --- meaning
@@ -155,7 +157,8 @@ are allowed to work alone.
 Either way, please submit the Partnership Contract on GradeScope.  Your
 expectations as a group member are outlined clearly on the contract.  You may
 resubmit the contract at a later time, at which time the new contract will come
-into effect.  All deliverables will be done as group work in this class.
+into effect.  All deliverables will be done as group work in this class.  All
+other work, including exercises and exams, are individual work.
 
 ## Assignment submission
 
