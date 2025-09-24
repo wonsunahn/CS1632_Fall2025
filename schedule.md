@@ -57,17 +57,18 @@ AFIST = [_A Friendly Introduction to Software Testing_](software-quality-assuran
 
 * Class 2
   * Lecture: Automated System Testing
+  * In-class exercise: [Exercise 3: Automated System Testing](exercises/3)
   * Assignments due before class
     * Deliverable 1
+  * Assignment releases
+    * [Deliverable 3](deliverables/3)
 
 ## WEEK 6 (Week of 29 SEP)
 
 * Class 1
-  * In-class exercise: [Exercise 3: Automated System Testing](exercises/3)
-  * Assignment releases
-    * [Deliverable 3](deliverables/3)
-    * Listen to Writing Testable Code Lecture (READING: AFIST, Chapter 16)
-
+  * Lecture: Writing Testable Code Lecture (READING: AFIST, Chapter 16)
+  * In-class exercise: [Exercise 3: Automated System Testing](exercises/3) cont'd
+  
 * Class 2
   * Lecture: Midterm 1 Q&A based on the [study guide](study_guides/midterm_1_study_guide.md)
   * Assignments due before class
@@ -87,21 +88,20 @@ AFIST = [_A Friendly Introduction to Software Testing_](software-quality-assuran
 
 * Class 2
   * Lecture: Performance Testing (READING: AFIST, Chapter 19)
-  * Assignments due before class
-    * Listen to Writing Testable Code Lecture (READING: AFIST, Chapter 16)
+  * In-class exercise: [Exercise 4: Performance Testing](exercises/4)
+  * Assignment releases
+    * [Deliverable 4](deliverables/4)
 
 ## WEEK 8 (Week of 13 OCT)
 
 * Class 1
-  * In-class exercise: [Exercise 4: Performance Testing](exercises/4)
+  * In-class exercise: [Exercise 4: Performance Testing](exercises/4) cont'd
   * Assignment releases
     * [Deliverable 4](deliverables/4)
-    * Listen to Stochastic and Property-Based Testing Lecture (READING: AFIST, Chapter 18)
 
 * Class 2
+  * Lecture: Stochastic and Property-Based Testing Lecture (READING: AFIST, Chapter 18)
   * In-class exercise: [Supplementary Exercise 2: Property-based Testing](exercises/Supplement2)
-  * Assignments due before class
-    * Listen to Stochastic and Property-Based Testing Lecture (READING: AFIST, Chapter 18)
 
 ## WEEK 9 (Week of 20 OCT)
 
