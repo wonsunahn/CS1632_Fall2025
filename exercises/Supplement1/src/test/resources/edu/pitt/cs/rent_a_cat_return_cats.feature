@@ -20,7 +20,7 @@ Scenario: Rent a cat and attempt to return the same cat twice
 # TODO: complete this scenario
 
 Rule: When a cat is requested for return and the cat has been rented,
-the return is successful and the cat is removed from the list of available cats.
+the return is successful and the cat is added to the list of available cats.
 
 Scenario: Rent the first cat and then return the first cat
 # TODO: complete this scenario
