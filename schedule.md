@@ -163,8 +163,14 @@ AFIST = [_A Friendly Introduction to Software Testing_](software-quality-assuran
 
 ## WEEK 15 (Week of 1 DEC)
 
-* Industry Guest Lectures (TBD)
- 
+* December 1, 9:30 AM @ IS 405: Broadcom lecture
+  
+* December 1, 3:00 PM @ SENSQ 6110: Wolfe lecture
+
+* December 3, 9:30 AM @ IS 405: TBD
+
+* December 3, 3:00 PM @ SENSQ 6110: CGI lecture
+
 ## WEEK 16 (Week of 8 DEC)
 
 * Midterm 2 on Final Exam Date (TBD)
