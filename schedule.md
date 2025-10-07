@@ -167,7 +167,7 @@ AFIST = [_A Friendly Introduction to Software Testing_](software-quality-assuran
   
 * December 1, 3:00 PM @ SENSQ 6110: Wolfe lecture
 
-* December 3, 9:30 AM @ IS 405: TBD
+* December 3, 9:30 AM @ IS 405: American Eagle Lecture
 
 * December 3, 3:00 PM @ SENSQ 6110: CGI lecture
 
