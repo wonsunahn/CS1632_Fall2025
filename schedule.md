@@ -113,15 +113,12 @@ AFIST = [_A Friendly Introduction to Software Testing_](software-quality-assuran
 
 * Class 2
   * In-class exercise: [Supplementary Exercise 3: Testing Nondeterministic Software](exercises/Supplement3)
-  * Assignment releases
-    * Listen to Static Analysis Part 1 Lecture
 
 ## WEEK 10 (Week of 27 OCT)
 
 * Class 1
+  * Lecture: Static Analysis Part 1 Lecture
   * In-class exercise: [Exercise 5 Part 1: Linters and Bug Finders](exercises/5)
-  * Assignments due before class
-    * Listen to Static Analysis Part 1 Lecture
 
 * Class 2
   * Lecture: Software QA and Nondeterminism (cont'd), Static Analysis Part 2
