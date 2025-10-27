@@ -3,7 +3,7 @@ package edu.pitt.cs;
 import java.util.Random;
 
 /**
- * Code by @author Wonsun Ahn. Copyright Summer 2024.
+ * Code by @author Wonsun Ahn. Copyright Fall 2025.
  * 
  * <p>
  * Each bean is assigned a skill level according to a normal distribution with
