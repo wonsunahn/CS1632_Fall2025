@@ -3,7 +3,7 @@ package edu.pitt.cs;
 import java.util.Random;
 
 /**
- * Code by @author Wonsun Ahn. Copyright Summer 2024.
+ * Code by @author Wonsun Ahn. Copyright Fall 2025.
  * 
  * <p>
  * Lucky beans have a 50/50 chance of going right or left. The formula to
