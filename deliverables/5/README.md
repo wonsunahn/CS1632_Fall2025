@@ -26,7 +26,7 @@ DUE: August 12 (Friday), 2025 11:59 M
 
 Due to the grading deadline, there is no late submission.
 
-**GitHub Classroom Link:** https://classroom.github.com/a/zKAwz54x
+**GitHub Classroom Link:** https://classroom.github.com/a/1l2nVDtZ
 
 ## Overview
 
