@@ -170,13 +170,17 @@ AFIST = [_A Friendly Introduction to Software Testing_](software-quality-assuran
 
 ## WEEK 16 (Week of 8 DEC)
 
-* Midterm 2 on Final Exam Date (TBD)
+* Midterm 2 on GradeScope
+  * Time and Location
+    * 1270 section: 12/11 (Thursday) 12:00PM - 1:50PM @ IS 405
+    * 1080 section: 12/9 (Tuesday) 4:00PM - 5:50PM @ SENSQ 5129
   * Steps:
     1. Do TopHat attendance at start of class.  If no attendance, grade will not be counted.
     2. Click on assignment "Midterm 2" on GradeScope (will appear at start of class).
     3. Click on the "Start Assignment" button.  There will be a count down timer on the top right once you start.
     4. Finish and submit the exam within 75 minutes.  You can submit multiple times.
-  * Exam is open book (Lecture slides, notes, textbook, exercises and deliverables, use of Java Development Kit or VSCode are permitted).
-  * Exam is individual work (use of generative AI is banned).
+  * Exam is open book (Lecture slides, notes, textbook, exercises and deliverables).  All materials have to be on paper.
+  * No internet access.  No generative AI.
+  * You should have only the GradeScope on the screen at all times.
 
 * Deliverable 5 due Friday (12/12) 11:59 PM
