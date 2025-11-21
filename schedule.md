@@ -160,13 +160,19 @@ AFIST = [_A Friendly Introduction to Software Testing_](software-quality-assuran
 
 ## WEEK 15 (Week of 1 DEC)
 
-* December 1, 9:30 AM @ IS 405: Broadcom lecture
+* December 1, 9:30 AM @ IS 405: [Broadcom](https://www.broadcom.com/) lecture
+  * Speaker: Cody Giardinello, Software Engineering Supervisor at Broadcom Inc., [LinkedIn](https://www.linkedin.com/in/cgiardi/)
   
-* December 1, 3:00 PM @ SENSQ 6110: Wolfe lecture
+* December 1, 3:00 PM @ SENSQ 6110: [Wolfe](https://www.wolfe.com/) lecture
+  * Speaker: Mike Secosky, VP - Technology at Wolfe, [LinkedIn](https://www.linkedin.com/in/michaelsecosky/)
+  * Speaker: Shane Ficorilli, DevSecOps Engineering Director at Wolfe, [LinkedIn](https://www.linkedin.com/in/shane-ficorilli/)
 
-* December 3, 9:30 AM @ IS 405: American Eagle Lecture
+* December 3, 9:30 AM @ IS 405: [American Eagle](https://www.ae.com/) lecture
+  * Speaker: Uttam Kumar, Engineering Manager at American Eagle, [LinkedIn](https://www.linkedin.com/in/kumaruttam/)
 
-* December 3, 3:00 PM @ SENSQ 6110: CGI lecture
+* December 3, 3:00 PM @ SENSQ 6110: [CGI](https://www.cgi.com/) lecture
+  * Speaker: Laks Ranganathan, CGI Partner | Director - Consulting Services, [LinkedIn](https://www.linkedin.com/in/lakshmi-narasimhan-yeri-ranganathan-4b7b874b/)
+  * Speaker: Praveen Sone, Director Consulting Expert at CGI, [LinkedIn](https://www.linkedin.com/in/praveen-s-397bb811b/)
 
 ## WEEK 16 (Week of 8 DEC)
 
